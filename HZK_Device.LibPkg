@@ -65,6 +65,10 @@ GenerateClassCluster=0
 DocumentPath=HZK_Device.PcbLib.htm
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=..\..\..\ADÔªÆ÷¼þ¿â\SOT.PcbLib.htm
+DItemRevisionGUID=
+
 [PCBConfiguration1]
 ReleaseItemId=
 CurrentRevision=
