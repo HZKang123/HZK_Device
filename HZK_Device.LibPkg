@@ -62,11 +62,15 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [GeneratedDocument1]
-DocumentPath=HZK_Device.PcbLib.htm
+DocumentPath=..\..\..\AD元器件库\SOT.PcbLib.htm
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=..\..\..\AD元器件库\SOT.PcbLib.htm
+DocumentPath=..\..\..\AD元器件库\压敏电阻.PcbLib.htm
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=..\..\..\AD元器件库\电容.PcbLib.htm
 DItemRevisionGUID=
 
 [PCBConfiguration1]
